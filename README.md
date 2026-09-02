@@ -1,4 +1,6 @@
 > **迁移公告**：clinn 的血脉已迁移至 [BIT](https://github.com/yxpil/bit)（官网 [osbt.space](https://osbt.space)）。clinn 0.3.0 诞生于 2026-05-31，它开创的「AI 自主构建与检索工具」路线在 BIT 中继续演进。
+>
+> **Migration Notice**: clinn's legacy has moved to [BIT](https://github.com/yxpil/bit) (website: [osbt.space](https://osbt.space)). Born on 2026-05-31 with version 0.3.0, the path it pioneered — AI autonomously building and retrieving its own tools — lives on in BIT.
 
 # Clinn — 终端原生 AI 编程助手
 
