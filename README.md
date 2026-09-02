@@ -1,3 +1,5 @@
+> **迁移公告**：clinn 的血脉已迁移至 [BIT](https://github.com/yxpil/bit)（官网 [osbt.space](https://osbt.space)）。clinn 0.3.0 诞生于 2026-05-31，它开创的「AI 自主构建与检索工具」路线在 BIT 中继续演进。
+
 # Clinn — 终端原生 AI 编程助手
 
 > Self-Evolving Terminal AI · Ink TUI · 50+ Tools · Session Memory
