@@ -154,3 +154,15 @@ AI 在对话中生成工具代码，通过 `save_tool` 持久化到 `~/.clinn/To
 ---
 
 Apache2.0 License
+
+---
+
+<div align="center">
+
+<a href="https://github.com/PillowLLM/clinn">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=PillowLLM/clinn" alt="gh-card · PillowLLM/clinn" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
